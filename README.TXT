@@ -1,3 +1,5 @@
+Note: Forked and exported from Adrian Holovaty's google code repo.
+
 =============
 templatemaker
 =============
